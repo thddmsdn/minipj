@@ -37,9 +37,4 @@
     "vuetify-loader": "^1.3.0"
   }
   
-  "optionalDependencies": {
-    "fsevents": "*"
-  }
-
-  
 }
