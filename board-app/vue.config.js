@@ -5,11 +5,11 @@ module.exports = {
 			args[0].title = 'Board'
 			return args
 			
-module.exports = {
-    chainWebpack: config => {
-        config.module.rules.delete('eslint');
-    }
-}			
+//module.exports = {
+//   chainWebpack: config => {
+//        config.module.rules.delete('eslint');
+//    }
+//}			
 		})
 	},
 	devServer: {
