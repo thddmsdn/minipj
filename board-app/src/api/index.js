@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-	baseURL: 'http://20.196.253.201:8090/',
+	baseURL: 'http://20.200.207.174:8090/',
 })
 
 instance.defaults.headers.post['Content-Type'] =
